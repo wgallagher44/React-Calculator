@@ -52,7 +52,7 @@ This Calculator is created in the javascript frame work of react and uses css an
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* [CSS](=https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
